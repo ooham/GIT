@@ -1,2 +1,1 @@
-# suresh-techs
-SureshTechs Websites
+changing the name
