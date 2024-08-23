@@ -1,0 +1,12 @@
+git clone path
+git status
+git add .
+git commit -m "msg"
+git push origin branchname 
+git config --global user.name "username"
+git config --global user.email "useremail"
+git config --list
+git --version
+git branch
+dir
+
